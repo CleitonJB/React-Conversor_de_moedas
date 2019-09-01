@@ -1,0 +1,15 @@
+.App{
+  max-width: 900px;
+  margin: auto;
+}
+
+.linha{
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+
+h1{
+  color: black;
+  text-align: center;
+}
